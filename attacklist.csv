@@ -1,3 +1,3 @@
 title,method,host,port,path
-bandarabbas.ir,slow,www.bandarabbas.ir,443,{rand}
+bandarabbas.ir,GET,www.bandarabbas.ir,443,{rand}
 
