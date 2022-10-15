@@ -1,3 +1,3 @@
 title,method,host,port,path
-qombol.com,POST,www.qombol.com,443,{rand}
-looti.net,POST,www.looti.net,443,{rand}
+mohami.ir,POST,https://mohami.ir/?lang=fa&a=content.q&q=tt,443,{rand}
+
